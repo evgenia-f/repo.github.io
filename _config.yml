@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+title: RSS test
+description: Welcome to my test rss
+author: Evgenia
